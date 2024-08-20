@@ -1,9 +1,9 @@
 <?php
 
 $Uname = "new.lua";  //Script Name
-$Url1 = "http://preaydaymodmenu.42web.io/Register.php"; //Register.php Link
-$Url2 = "http://preaydaymodmenu.42web.io/User.php"; //User.php Link
-$Url3 = "http://preaydaymodmenu.42web.io/ActionManager.php"; //ActionManager.php Link
+$Url1 = "http://php-laravel-docker-qf41.onrender.com/Register.php"; //Register.php Link
+$Url2 = "http://php-laravel-docker-qf41.onrender.com/User.php"; //User.php Link
+$Url3 = "http://php-laravel-docker-qf41.onrender.com/ActionManager.php"; //ActionManager.php Link
 
 
 
